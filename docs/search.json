@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Iggy",
+    "title": "Yes, This is Carlos",
     "section": "",
-    "text": "Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner."
+    "text": "Methods man."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house."
+    "text": "Hi! Thanks for checking my website. I am a sixth year PhD student in Quantitative Methods at the University of Minnesota Twin Cities. This website highlights my research and personal interests. Please feel free to contact me if you have any questions.\nLater!"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\nPuppy Kindergarten Level 2, Pet Smart | Richfield, MN Certificate in Walking | Oct. 2021\nPuppy Kindergarten Level 1, Pet Smart | Richfield, MN Certificate in Listening | Sept. 2021"
+    "text": "Education\nBachelor of Science in Psychology, University of Minnesota | Minneapolis, MN | May 2017\nMaster of Arts in Educational Psychology, University of Minnesota | Minneapolis, MN | May 2020\nDoctor of Philosophy in Educational Psychology , University of Minnesota | Minneapolis, MN | Expected 2024"
   },
   {
     "objectID": "about.html#references",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "References",
     "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail"
   }
 ]
