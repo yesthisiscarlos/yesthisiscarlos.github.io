@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hi! Thanks for checking my website. I am a sixth year PhD student in Quantitative Methods at the University of Minnesota Twin Cities. This website highlights my research and personal interests. Please feel free to contact me if you have any questions. 
+Hi! Thanks for checking out my website. I am a sixth year PhD student in Quantitative Methods at the University of Minnesota Twin Cities. This website highlights my research and personal interests. Please feel free to contact me if you have any questions. 
 
 Later!
 
