@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/blog1_20231031.html",
+    "href": "posts/blog1_20231031.html",
+    "title": "Learning to create a website",
+    "section": "",
+    "text": "I created and started this website! With the help of friends and faculty at my department. The roughest part was getting my personal domain name to work."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yes, This is Carlos",
@@ -28,13 +35,6 @@
     "text": "Contact\nEmail: chave143@umn.edu"
   },
   {
-    "objectID": "about.html#curriculum-vitae",
-    "href": "about.html#curriculum-vitae",
-    "title": "About",
-    "section": "Curriculum Vitae",
-    "text": "Curriculum Vitae\nCV"
-  },
-  {
     "objectID": "thoughts.html",
     "href": "thoughts.html",
     "title": "Thoughts",
@@ -42,25 +42,11 @@
     "text": "I love to learn and share my thoughts on what I am learning or doing. I use this page as a way to share what music I’m listening to or learning to play, TV or movies I am watching, food or recipes that I want to make or learn to make, and concepts in educational research I am investigating. Just my own thoughts and opinions.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLearning to create a website\n\n\n\n\n\nA reflection of my website development journey\n\n\n\n\n\n\nOct 31, 2023\n\n\nCarlos Chavez\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/blog2.html",
-    "href": "posts/blog2.html",
-    "title": "Learning to create a website",
-    "section": "",
-    "text": "I created and started this website! With the help of friends and faculty at my department. The roughest part was getting my personal domain name to work."
-  },
-  {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "FAQ",
     "section": "",
     "text": "Frequently Asked Questions\n\nWhen will you be finished with your PhD?\nI don’t know. Hopefully sometime 2024?\nWhat are you studying?\nI am working on my PhD in Educational Psychology with a focus on Quantitative Methods in Education (QME). I am particularly interested in educational measurement. This is a field that is concerned with the measurement of a person’s knowledge, skills, and abilities using a variety of assessment methods such as standardized tests, surveys, or performance assessments. Ultimately, we want to know that a score or rating is truly reflective of a person’s knowledge. Primarily, psychometrics (an applied field of statistics concerned with quantifying uncertainty in human behavior) is used to explain scores. Though, it is common to use more qualitative approaches as well. I tend to favor a holistic approach that incorporates evidence from both psychometrics and qualtitative methodologies.\nLong story short: data science.\nWhat year are you in?\nI think my sixth year? Time is a messy dimension and I prefer not to interact with it.\nWhat do you want to do after your PhD?\nIdeally. IDEALLY! I’d like to be a professor focusing my efforts on teaching about educational measurement. At a university close to my parents and family. Doing research on the side for fun. Realistically. I still would like to be in academia. Tenure track is enticing though I think I would also enjoy consulting or working at a research center. Alternatively, I would love to work with public schools either at the district, state, or federal level.\nIndustry work is currently not my passion but I won’t say never.\nWhat do you think about standardized testing?\nIt’s complicated.\nWhat is your favorite bear?\nThe brown bear. Duh."
-  },
-  {
-    "objectID": "posts/blog1_20231031.html",
-    "href": "posts/blog1_20231031.html",
-    "title": "Learning to create a website",
-    "section": "",
-    "text": "I created and started this website! With the help of friends and faculty at my department. The roughest part was getting my personal domain name to work."
   },
   {
     "objectID": "cv.html",
