@@ -6,35 +6,35 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #ca054d;
-
-
-
+$navbar-hl: #fff48c;
+$navbar-bg: #222b00;
+$body-bg: #849448;
+$body-color: #fff48c;
 
 /*-- scss:rules --*/
 
 /* unvisited link */
 a:link {
-  color:  #ca054d;
+  color:  #ed9b1f;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color:  #ca054d;
+  color:  #960000;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:  #ca054d;
+  color:  #ed9b1f;
   text-decoration: underline;
   
 }
 
 /* selected link */
 a:active {
-  color:  #ca054d;
+  color:  #ed9b1f;
   text-decoration: none;
 } 
 

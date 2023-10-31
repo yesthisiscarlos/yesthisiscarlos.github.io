@@ -1,0 +1,9 @@
+---
+title: "Learning to create a website"
+description: "A reflection of my website development journey"
+author: "Carlos Chavez"
+date: "31-Oct-2023"
+---
+
+
+I created and started this website! With the help of friends and faculty at my department. The roughest part was getting my personal domain name to work. 

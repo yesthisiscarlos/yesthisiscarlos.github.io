@@ -1,0 +1,10 @@
+---
+title: "Thoughts"
+listing: 
+  contents: posts
+  sort: 
+    - "date"
+  categories: TRUE
+---
+
+I love to learn and share my thoughts on what I am learning or doing. I use this page as a way to share what music I'm listening to or learning to play, TV or movies I am watching, food or recipes that I want to make or learn to make, and concepts in educational research I am investigating. Just my own thoughts and opinions.

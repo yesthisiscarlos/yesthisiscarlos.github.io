@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/index.html"
+    ]
+  },
+  {
+    "listing": "/thoughts.html",
+    "items": [
+      "/posts/blog1_20231031.html"
+    ]
+  }
+]
