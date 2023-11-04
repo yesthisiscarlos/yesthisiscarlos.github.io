@@ -12,6 +12,7 @@ website:
       - thoughts.qmd
       - faq.qmd
       - cv.qmd
+      - resources.qmd
 
 format:
   html:
