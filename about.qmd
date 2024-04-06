@@ -1,16 +1,29 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 Hey! 
 
-Thanks for checking out my website. I'm Carlos and I am originally from the Chicagoland area where my parents immigrated to from Mexico in the early 1990s. My parents wanted me to become a doctor but I didn't follow the directions quite right because now I am a sixth year PhD student in Quantitative Methods at the University of Minnesota Twin Cities. 
-
-Currently my main research interest is in multilevel explanatory item response models for polytomous items. This is a broad yet niche interest that encompasses my passion for score interpretation and use, cross cultural assessment, and test and survey design. My goal is to equip and assist researchers with the appropriate methodological tools needed for their inquiries. I hope to continue this work beyond graduate school in an academic workplace. 
-
-This website is a vehicle for me to share my work with others, as well as provide an outlet for me to share some personal musings. Please feel free to contact me if you have any questions. 
-
-¡Ciao!
+  Thanks for checking out my website. This website is a vehicle for me to share my work with others, as well as provide an outlet for me to share some personal musings. 
+  
+## Short Biography  
+  I was born in Chicago and raised in the Chicagoland area. My parents immigrated to Chicago from Michoacan, Mexico in the early 1990s. We came from very humble beginnings and somehow my parents managed to raise me and my three siblings while navigating a new country. Growing up we visited Mexico often and still try to visit at least once a year. Although I never had a strong pull towards a specific career, my parents wanted me to become a doctor. I didn't follow the directions quite right because now I am a sixth year PhD candidate in Quantitative Methods in Education at the University of Minnesota Twin Cities.
+  
+## Research and Academic Interests
+  Broadly I am interested in aligning methodologies to support test score interpretation and uses. This is a fairly broad interest which I split into a number of dimensions. 
+ 
+  First, I am interested in test development. In particular, examining new and existing approaches to measuring an individual's knowledge, skill, and ability level. Developing culturally responsive assessment and assessments for special populations has been my main focus thus far. To this end I am employing a mix of quantitative and qualitative methods to explore such inquiries.
+ 
+  Lately, I have been very interested in item response theory and what distinguishes it from other test theories. Particularly I am curious how 'precision' is defined in test theories. Additionally, I am exploring the potential for IRT models to explain polytomous item responses using item, person, and school characteristics.
+ 
+  Connecting educational measurement to social contexts is another academic interest. I am driven to help and guide the use of measurement methodologies and tools. Educating others on proper assessment design, score interpretation and use, and statistical methodologies is incredibly important to me. I incorporate a critical and culturally response lens in my work and in my education. 
+  
+## Personal and Social Interests
+  I enjoy playing in music ensembles and writing music--mostly Jazz and Latin-American music these days. I'm somewhat of a multi-instrumentalist as I can play guitar, electric and double bass, accordion, and hand percussion. I'll be sure to post any shows or musical thoughts on here as well!
+  
+  Cooking is another interest of mine. I love to explore and improvise in the kitchen. I worked as a line cook in undergrad and really connected with being in the kitchen. Making Mexican food and Mexican inspired dishes has been a great way for me to stay connected to my roots.
+  
+  Long distance running, biking, and swimming are some of my favorite activities to do outdoors. I've run a few half-marathons and finished my first marathon in 2023 (Grandma's Marathon in Duluth). I'm also a member of the Twin Cities Running Club. Hoping to race in my first triathlon in the next year!
 
 ## Education
 

@@ -7,22 +7,22 @@
 /*-- scss:defaults --*/
 
 $navbar-hl: #fff48c;
-$navbar-bg: #222b00;
-$body-bg: #849448;
-$body-color: #fff48c;
+$navbar-bg: rgba(#222b00, .5);
+$body-bg: rgba(#849448, .6);
+$body-color: #222b00;
 
 /*-- scss:rules --*/
 
 /* unvisited link */
 a:link {
-  color:  #ed9b1f;
-  text-decoration: none;
+  color:  rgba(#222b00, .75);
+  text-decoration: underline;
 }
 
 /* visited link */
 a:visited {
   color:  #960000;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* mouse over link */
@@ -34,7 +34,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color:  #ed9b1f;
+  color:  #960000;
   text-decoration: none;
 } 
 

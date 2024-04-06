@@ -16,21 +16,42 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "Hey!\nThanks for checking out my website. I’m Carlos and I am originally from the Chicagoland area where my parents immigrated to from Mexico in the early 1990s. My parents wanted me to become a doctor but I didn’t follow the directions quite right because now I am a sixth year PhD student in Quantitative Methods at the University of Minnesota Twin Cities.\nCurrently my main research interest is in multilevel explanatory item response models for polytomous items. This is a broad yet niche interest that encompasses my passion for score interpretation and use, cross cultural assessment, and test and survey design. My goal is to equip and assist researchers with the appropriate methodological tools needed for their inquiries. I hope to continue this work beyond graduate school in an academic workplace.\nThis website is a vehicle for me to share my work with others, as well as provide an outlet for me to share some personal musings. Please feel free to contact me if you have any questions.\n¡Ciao!"
+    "text": "Hey!\nThanks for checking out my website. This website is a vehicle for me to share my work with others, as well as provide an outlet for me to share some personal musings."
+  },
+  {
+    "objectID": "about.html#short-biography",
+    "href": "about.html#short-biography",
+    "title": "About Me",
+    "section": "Short Biography",
+    "text": "Short Biography\nI was born in Chicago and raised in the Chicagoland area. My parents immigrated to Chicago from Michoacan, Mexico in the early 1990s. We came from very humble beginnings and somehow my parents managed to raise me and my three siblings while navigating a new country. Growing up we visited Mexico often and still try to visit at least once a year. Although I never had a strong pull towards a specific career, my parents wanted me to become a doctor. I didn’t follow the directions quite right because now I am a sixth year PhD candidate in Quantitative Methods in Education at the University of Minnesota Twin Cities."
+  },
+  {
+    "objectID": "about.html#research-and-academic-interests",
+    "href": "about.html#research-and-academic-interests",
+    "title": "About Me",
+    "section": "Research and Academic Interests",
+    "text": "Research and Academic Interests\nBroadly I am interested in aligning methodologies to support test score interpretation and uses. This is a fairly broad interest which I split into a number of dimensions.\nFirst, I am interested in test development. In particular, examining new and existing approaches to measuring an individual’s knowledge, skill, and ability level. Developing culturally responsive assessment and assessments for special populations has been my main focus thus far. To this end I am employing a mix of quantitative and qualitative methods to explore such inquiries.\nLately, I have been very interested in item response theory and what distinguishes it from other test theories. Particularly I am curious how ‘precision’ is defined in test theories. Additionally, I am exploring the potential for IRT models to explain polytomous item responses using item, person, and school characteristics.\nConnecting educational measurement to social contexts is another academic interest. I am driven to help and guide the use of measurement methodologies and tools. Educating others on proper assessment design, score interpretation and use, and statistical methodologies is incredibly important to me. I incorporate a critical and culturally response lens in my work and in my education."
+  },
+  {
+    "objectID": "about.html#personal-and-social-interests",
+    "href": "about.html#personal-and-social-interests",
+    "title": "About Me",
+    "section": "Personal and Social Interests",
+    "text": "Personal and Social Interests\nI enjoy playing in music ensembles and writing music–mostly Jazz and Latin-American music these days. I’m somewhat of a multi-instrumentalist as I can play guitar, electric and double bass, accordion, and hand percussion. I’ll be sure to post any shows or musical thoughts on here as well!\nCooking is another interest of mine. I love to explore and improvise in the kitchen. I worked as a line cook in undergrad and really connected with being in the kitchen. Making Mexican food and Mexican inspired dishes has been a great way for me to stay connected to my roots.\nLong distance running, biking, and swimming are some of my favorite activities to do outdoors. I’ve run a few half-marathons and finished my first marathon in 2023 (Grandma’s Marathon in Duluth). I’m also a member of the Twin Cities Running Club. Hoping to race in my first triathlon in the next year!"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
+    "title": "About Me",
     "section": "Education",
     "text": "Education\nBachelor of Science in Psychology, University of Minnesota | Minneapolis, MN | May 2017\nMaster of Arts in Educational Psychology, University of Minnesota | Minneapolis, MN | May 2020\nDoctor of Philosophy in Educational Psychology , University of Minnesota | Minneapolis, MN | Expected 2024"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About",
+    "title": "About Me",
     "section": "Contact",
     "text": "Contact\nEmail: chave143@umn.edu"
   },
@@ -39,7 +60,7 @@
     "href": "thoughts.html",
     "title": "Thoughts",
     "section": "",
-    "text": "I love to learn and share my thoughts on what I am learning or doing. I use this page as a way to share what music I’m listening to or learning to play, TV or movies I am watching, food or recipes that I want to make or learn to make, and concepts in educational research I am investigating. Just my own thoughts and opinions.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLearning to create a website\n\n\n\n\n\nA reflection of my website development journey\n\n\n\n\n\n\nOct 31, 2023\n\n\nCarlos Chavez\n\n\n\n\n\n\nNo matching items"
+    "text": "I love to learn and share my thoughts on what I am learning or doing. I use this page as a way to share what music I’m listening to or learning to play, TV or movies I am watching, food or recipes that I want to make or learn to make, and concepts in educational research I am investigating. Just my own thoughts and opinions.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLearning to create a website\n\n\n\n\n\nA reflection of my website development journey\n\n\n\n\n\n\nOct 31, 2023\n\n\nCarlos Chavez\n\n\n\n\n\n\n  \n\n\n\n\nMoving Forward\n\n\n\n\n\nLife updates since my previous post\n\n\n\n\n\n\nApr 6, 2024\n\n\nCarlos Chavez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "faq.html",

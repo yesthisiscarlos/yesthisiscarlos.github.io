@@ -1,5 +1,5 @@
 ---
-title: "Yes, This is Carlos"
+title: "Yes, This is Carlos."
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
