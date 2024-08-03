@@ -6,16 +6,16 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #fff48c;
-$navbar-bg: rgba(#222b00, .5);
-$body-bg: rgba(#849448, .6);
-$body-color: #222b00;
+$navbar-hl: #849448;
+$navbar-bg: rgba(#849448, .5);
+$body-bg: rgba(#FFFDD0, .25);
+$body-color: #4C574F;
 
 /*-- scss:rules --*/
 
 /* unvisited link */
 a:link {
-  color:  rgba(#222b00, .75);
+  color:  rgba(#0000EE, .75);
   text-decoration: underline;
 }
 
