@@ -7,9 +7,6 @@ about:
   image: img/PC312361.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/yesthisiscarlos
     - icon: github
       text: Github
       href: https://github.com/yesthisiscarlos
