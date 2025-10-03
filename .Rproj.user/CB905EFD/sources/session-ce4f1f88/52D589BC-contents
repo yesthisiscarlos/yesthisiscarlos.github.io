@@ -1,0 +1,18 @@
+---
+title: "Yes, This is Carlos."
+about:
+  # Templates include: jolla, trestles, solana, marquee, or broadside
+  # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image: img/PC312361.jpeg
+  links:
+    # Available icons: https://icons.getbootstrap.com/
+    - icon: github
+      text: Github
+      href: https://github.com/yesthisiscarlos
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carlos-chavez-44904294/
+---
+
+Methods, man.

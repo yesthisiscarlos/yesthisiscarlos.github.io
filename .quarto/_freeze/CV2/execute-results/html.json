@@ -1,0 +1,15 @@
+{
+  "hash": "a293697a4403fe2e3d095cd621f8294d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Curriculum vitae\ndescription: \"Carlos Chavez's CV\"\ndate: 2024-02-15\nengine: knitr\n---\n\n\n# Education\n\n------------------------------------------------------------------------\n\n## PhD Educational Psychology\n\n|   **Program**: Quantitative Methods in Education\n|   **Concentration**: Measurement and Program Evaluation\n|   University of Minnesota Twin Cities\n|   Expected 2025\n\n## MA Educational Psychology \n\n|   **Program**: Quantitative Methods in Education\n|   **Concentration**: Measurement and Program Evaluation\n|   **Thesis**: [Moderating the Likelihood of Bullying Victimization in the Intersection of Race & Ethnicity, & Gender Expression](https://hdl.handle.net/11299/226480){.balance}\n|   University of Minnesota Twin Cities\n|   Awarded 2021\n\n## BS Psychology \n\n|   Neuroscience Minor\n|   University of Minnesota Twin Cities\n|   Awarded 2017\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

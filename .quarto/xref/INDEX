@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "adb66ae9"
+  },
+  "index.qmd": {
+    "index.html": "2758d310"
+  },
+  "posts/index.qmd": {
+    "index.html": "afc8e58e"
+  },
+  "thoughts.qmd": {
+    "thoughts.html": "11a2f52a"
+  },
+  "posts/blog2.qmd": {
+    "blog2.html": "e30fc143"
+  },
+  "faq.qmd": {
+    "faq.html": "33ba620a"
+  },
+  "posts/blog1_20231031.qmd": {
+    "blog1_20231031.html": "4428ca61"
+  },
+  "cv.qmd": {
+    "cv.html": "4a439fba"
+  },
+  "resources.qmd": {
+    "resources.html": "b10a3114"
+  },
+  "posts/blog2_20240416.qmd": {
+    "blog2_20240416.html": "4a33b508"
+  },
+  "posts/blog3_20240803.qmd": {
+    "blog3_20240803.html": "4ef16f0f"
+  },
+  "CopyOfcv.qmd": {
+    "CopyOfcv.html": "decd8af6"
+  },
+  "CV2.qmd": {
+    "CV2.html": "63ed88d0"
+  }
+}

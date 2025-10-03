@@ -1,0 +1,14 @@
+{
+  "hash": "f738246658b2ab25cf115a3371440cab",
+  "result": {
+    "markdown": "---\ntitle: Carlos Chavez\ndescription: \"Curriculum vitae\"\ndate: 2024-08-09\npublished-title: CV last updated\nengine: knitr \n---\n\n\n\n\n# Education {.center}\n\n------------------------------------------------------------------------\n\nPhD Educational Psychology \\\n            Program: Quantitative Methods in Education\n\n# Professional Experience {.center}\n\n------------------------------------------------------------------------\n\n# Peer Reviewed Publications {.center}\n\n------------------------------------------------------------------------\n\n# Manuscripts Under Review {.center}\n\n------------------------------------------------------------------------\n\n# Manuscripts in Preperation {.center}\n\n------------------------------------------------------------------------\n\n# Book Chapters {.center}\n\n------------------------------------------------------------------------\n\n# Technical Reports and Other Publications {.center}\n\n------------------------------------------------------------------------\n\n# Peer Reviewed Presentations {.center}\n\n------------------------------------------------------------------------\n\n# Invited Presentations {.center}\n\n------------------------------------------------------------------------\n\n# Awards {.center}\n\n------------------------------------------------------------------------\n\n# Service {.center}\n\n------------------------------------------------------------------------\n\n# Professional Affilliantions {.center}\n\n------------------------------------------------------------------------\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
