@@ -7,6 +7,9 @@ about:
   image: img/PC312361.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
+    - icon: bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/yesthisiscarlos.bsky.social
     - icon: github
       text: Github
       href: https://github.com/yesthisiscarlos
