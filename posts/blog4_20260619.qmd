@@ -1,0 +1,10 @@
+---
+title: "Newest Thoughts"
+description: "Still testing this website"
+author: "Carlos Chavez"
+date: "19-Jun-2026"
+categories:
+    - dissertation
+---
+
+Instead of working on my dissertation, I am updating my website. Thank you. 
